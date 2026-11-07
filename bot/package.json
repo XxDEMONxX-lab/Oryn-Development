@@ -1,0 +1,11 @@
+{
+  "name": "oryn-bot",
+  "version": "1.0.0",
+  "description": "Oryn Bot Discord bot",
+  "scripts": {
+    "start": "python CodeX.py",
+    "dev": "python CodeX.py",
+    "install": "pip install -r requirements.txt"
+  },
+  "private": true
+}
